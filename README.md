@@ -65,8 +65,3 @@ jupyter notebook notebooks/01_exploratory_data_analysis.ipynb
 ## License
 
 MIT License – free to use, modify, and distribute for academic & commercial purposes.
-
-## Contact
-
-**Muhammad Rafi Dhiyaulhaq**  
-Email: rafidhiyaulh@gmail.com | LinkedIn: [linkedin.com/in/rafidhiyaulh](https://linkedin.com/in/rafidhiyaulh) | GitHub: [github.com/rafidhiyaulh](https://github.com/rafidhiyaulh)
